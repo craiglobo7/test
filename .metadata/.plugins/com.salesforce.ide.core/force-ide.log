@@ -1,0 +1,392 @@
+ WARN [2015-07-08 20:24:04,790] (BaseRetryAspect.java:isLoginExceptionRetryable:117) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:24:04,813] (BaseRetryAspect.java:isConnectionExceptionRetryable:153) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:24:04,895] (ProjectController.java:getRemotePackageNames:939) - Unable to get project packages for project 'Project1': Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:24:04,941] (ProjectOrganizationPage.java:prepareNextPage:269) - Unable to login: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:24:27,245] (BaseRetryAspect.java:isLoginExceptionRetryable:117) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:24:27,252] (BaseRetryAspect.java:isConnectionExceptionRetryable:153) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:24:27,260] (ProjectController.java:getRemotePackageNames:939) - Unable to get project packages for project 'Project1': Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:24:27,289] (ProjectOrganizationPage.java:prepareNextPage:269) - Unable to login: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:25:13,090] (BaseRetryAspect.java:isLoginExceptionRetryable:117) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:25:13,097] (BaseRetryAspect.java:isConnectionExceptionRetryable:153) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:25:13,105] (ProjectController.java:getRemotePackageNames:939) - Unable to get project packages for project 'Project1': Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:25:13,135] (ProjectOrganizationPage.java:prepareNextPage:269) - Unable to login: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:25:56,953] (BaseRetryAspect.java:isLoginExceptionRetryable:117) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:25:56,959] (BaseRetryAspect.java:isConnectionExceptionRetryable:153) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:25:56,978] (ProjectController.java:getRemotePackageNames:939) - Unable to get project packages for project 'Project1': Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:25:56,999] (ProjectOrganizationPage.java:prepareNextPage:269) - Unable to login: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:26:12,007] (BaseRetryAspect.java:isLoginExceptionRetryable:117) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:26:12,013] (BaseRetryAspect.java:isConnectionExceptionRetryable:153) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:26:12,020] (ProjectController.java:getRemotePackageNames:939) - Unable to get project packages for project 'Project_1': Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:26:12,047] (ProjectOrganizationPage.java:prepareNextPage:269) - Unable to login: Invalid username, password, security token; or user locked out. Are you at a new location? When accessing Salesforce--either via a desktop client or the API--from outside of your company’s trusted networks, you must add a security token to your password to log in. To receive a new security token, log in to salesforce.com at http://login.salesforce.com and click Setup | My Personal Information | Reset Security Token.
+ WARN [2015-07-08 20:35:31,228] (BaseRetryAspect.java:isLoginExceptionRetryable:117) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-08 20:35:31,234] (BaseRetryAspect.java:isConnectionExceptionRetryable:153) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-08 20:35:31,241] (ProjectController.java:getRemotePackageNames:939) - Unable to get project packages for project 'Project_1': Invalid username, password, security token; or user locked out.
+ WARN [2015-07-08 20:35:31,264] (ProjectOrganizationPage.java:prepareNextPage:269) - Unable to login: Invalid username, password, security token; or user locked out.
+ WARN [2015-07-08 20:35:43,854] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+ WARN [2015-07-08 20:35:43,860] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-08 20:35:43,864] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-07-08 20:35:43,878] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-07-08 20:35:43,883] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-07-08 20:35:43,887] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-07-08 20:35:43,893] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Type': Unable to get bean for id 'Territory2Type'
+ WARN [2015-07-08 20:35:43,897] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Model': Unable to get bean for id 'Territory2Model'
+ WARN [2015-07-08 20:35:43,901] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Rule': Unable to get bean for id 'Territory2Rule'
+ WARN [2015-07-08 20:35:43,905] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2': Unable to get bean for id 'Territory2'
+ WARN [2015-07-08 20:35:43,909] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-07-08 20:35:43,913] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-07-08 20:35:43,917] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-08 20:35:44,900] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+ WARN [2015-07-08 20:35:45,017] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-08 20:35:45,022] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-07-08 20:35:45,033] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-07-08 20:35:45,038] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-07-08 20:35:45,042] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-07-08 20:35:45,049] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Type': Unable to get bean for id 'Territory2Type'
+ WARN [2015-07-08 20:35:45,054] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Model': Unable to get bean for id 'Territory2Model'
+ WARN [2015-07-08 20:35:45,059] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Rule': Unable to get bean for id 'Territory2Rule'
+ WARN [2015-07-08 20:35:45,063] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2': Unable to get bean for id 'Territory2'
+ WARN [2015-07-08 20:35:45,067] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-07-08 20:35:45,072] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-07-08 20:35:45,076] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-08 20:41:02,655] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+ WARN [2015-07-08 20:41:02,663] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-08 20:41:02,670] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-07-08 20:41:02,687] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-07-08 20:41:02,691] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-07-08 20:41:02,695] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-07-08 20:41:02,732] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Type': Unable to get bean for id 'Territory2Type'
+ WARN [2015-07-08 20:41:02,736] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Model': Unable to get bean for id 'Territory2Model'
+ WARN [2015-07-08 20:41:02,740] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Rule': Unable to get bean for id 'Territory2Rule'
+ WARN [2015-07-08 20:41:02,744] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2': Unable to get bean for id 'Territory2'
+ WARN [2015-07-08 20:41:02,748] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-07-08 20:41:02,753] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-07-08 20:41:02,757] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-08 20:41:03,388] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+ WARN [2015-07-08 20:41:03,396] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-08 20:41:03,402] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-07-08 20:41:03,413] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-07-08 20:41:03,418] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-07-08 20:41:03,422] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-07-08 20:41:03,427] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Type': Unable to get bean for id 'Territory2Type'
+ WARN [2015-07-08 20:41:03,430] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Model': Unable to get bean for id 'Territory2Model'
+ WARN [2015-07-08 20:41:03,434] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Rule': Unable to get bean for id 'Territory2Rule'
+ WARN [2015-07-08 20:41:03,438] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2': Unable to get bean for id 'Territory2'
+ WARN [2015-07-08 20:41:03,442] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-07-08 20:41:03,446] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-07-08 20:41:03,449] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-08 20:41:11,827] (Utils.java:loadDocument:799) - Unable to load document: C:\Users\Craig Lobo\workspace\.metadata\.plugins\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+ WARN [2015-07-08 20:41:13,067] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+ WARN [2015-07-08 20:41:13,075] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-08 20:41:13,081] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-07-08 20:41:13,098] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-07-08 20:41:13,102] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-07-08 20:41:13,106] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-07-08 20:41:13,112] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Type': Unable to get bean for id 'Territory2Type'
+ WARN [2015-07-08 20:41:13,116] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Model': Unable to get bean for id 'Territory2Model'
+ WARN [2015-07-08 20:41:13,120] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Rule': Unable to get bean for id 'Territory2Rule'
+ WARN [2015-07-08 20:41:13,125] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2': Unable to get bean for id 'Territory2'
+ WARN [2015-07-08 20:41:13,129] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-07-08 20:41:13,134] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-07-08 20:41:13,139] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-08 20:41:13,918] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+ WARN [2015-07-08 20:41:13,925] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-08 20:41:13,932] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-07-08 20:41:13,944] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-07-08 20:41:13,949] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-07-08 20:41:13,953] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-07-08 20:41:13,959] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Type': Unable to get bean for id 'Territory2Type'
+ WARN [2015-07-08 20:41:13,963] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Model': Unable to get bean for id 'Territory2Model'
+ WARN [2015-07-08 20:41:13,968] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Rule': Unable to get bean for id 'Territory2Rule'
+ WARN [2015-07-08 20:41:13,973] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2': Unable to get bean for id 'Territory2'
+ WARN [2015-07-08 20:41:13,979] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-07-08 20:41:13,984] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-07-08 20:41:13,989] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-08 20:41:14,975] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+ WARN [2015-07-08 20:41:14,983] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-08 20:41:14,987] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-07-08 20:41:15,006] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-07-08 20:41:15,011] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-07-08 20:41:15,015] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-07-08 20:41:15,021] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Type': Unable to get bean for id 'Territory2Type'
+ WARN [2015-07-08 20:41:15,025] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Model': Unable to get bean for id 'Territory2Model'
+ WARN [2015-07-08 20:41:15,028] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Rule': Unable to get bean for id 'Territory2Rule'
+ WARN [2015-07-08 20:41:15,032] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2': Unable to get bean for id 'Territory2'
+ WARN [2015-07-08 20:41:15,036] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-07-08 20:41:15,040] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-07-08 20:41:15,043] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-08 20:41:16,295] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+ WARN [2015-07-08 20:41:16,302] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-08 20:41:16,307] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-07-08 20:41:16,319] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-07-08 20:41:16,324] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-07-08 20:41:16,328] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-07-08 20:41:16,333] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Type': Unable to get bean for id 'Territory2Type'
+ WARN [2015-07-08 20:41:16,337] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Model': Unable to get bean for id 'Territory2Model'
+ WARN [2015-07-08 20:41:16,342] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Rule': Unable to get bean for id 'Territory2Rule'
+ WARN [2015-07-08 20:41:16,346] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2': Unable to get bean for id 'Territory2'
+ WARN [2015-07-08 20:41:16,350] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-07-08 20:41:16,355] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-07-08 20:41:16,359] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-08 20:41:17,485] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+ WARN [2015-07-08 20:41:17,492] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-08 20:41:17,499] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-07-08 20:41:17,512] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-07-08 20:41:17,516] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-07-08 20:41:17,520] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-07-08 20:41:17,524] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Type': Unable to get bean for id 'Territory2Type'
+ WARN [2015-07-08 20:41:17,528] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Model': Unable to get bean for id 'Territory2Model'
+ WARN [2015-07-08 20:41:17,531] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Rule': Unable to get bean for id 'Territory2Rule'
+ WARN [2015-07-08 20:41:17,535] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2': Unable to get bean for id 'Territory2'
+ WARN [2015-07-08 20:41:17,539] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-07-08 20:41:17,542] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-07-08 20:41:17,546] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-08 20:41:38,315] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-07-08 20:41:38,350] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+ WARN [2015-07-08 20:41:38,372] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'BusinessProcess': Unable to get bean for id 'BusinessProcess'
+ WARN [2015-07-08 20:41:38,381] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-07-08 20:41:38,387] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CompactLayout': Unable to get bean for id 'CompactLayout'
+ WARN [2015-07-08 20:41:38,392] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-07-08 20:41:38,401] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CustomField': Unable to get bean for id 'CustomField'
+ WARN [2015-07-08 20:41:38,407] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CustomLabel': Unable to get bean for id 'CustomLabel'
+ WARN [2015-07-08 20:41:38,865] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+ WARN [2015-07-08 20:41:38,873] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-08 20:41:38,879] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-07-08 20:41:38,897] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-07-08 20:41:38,902] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-07-08 20:41:38,906] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-07-08 20:41:38,911] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Type': Unable to get bean for id 'Territory2Type'
+ WARN [2015-07-08 20:41:38,915] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Model': Unable to get bean for id 'Territory2Model'
+ WARN [2015-07-08 20:41:38,919] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Rule': Unable to get bean for id 'Territory2Rule'
+ WARN [2015-07-08 20:41:38,923] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2': Unable to get bean for id 'Territory2'
+ WARN [2015-07-08 20:41:38,927] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-07-08 20:41:38,932] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-07-08 20:41:38,936] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-08 20:41:40,043] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+ WARN [2015-07-08 20:41:40,051] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-08 20:41:40,057] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-07-08 20:41:40,070] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-07-08 20:41:40,074] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-07-08 20:41:40,077] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-07-08 20:41:40,082] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Type': Unable to get bean for id 'Territory2Type'
+ WARN [2015-07-08 20:41:40,085] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Model': Unable to get bean for id 'Territory2Model'
+ WARN [2015-07-08 20:41:40,089] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Rule': Unable to get bean for id 'Territory2Rule'
+ WARN [2015-07-08 20:41:40,092] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2': Unable to get bean for id 'Territory2'
+ WARN [2015-07-08 20:41:40,096] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-07-08 20:41:40,100] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-07-08 20:41:40,103] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-08 20:41:41,210] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+ WARN [2015-07-08 20:41:41,217] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-08 20:41:41,223] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-07-08 20:41:41,238] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-07-08 20:41:41,242] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-07-08 20:41:41,245] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-07-08 20:41:41,250] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Type': Unable to get bean for id 'Territory2Type'
+ WARN [2015-07-08 20:41:41,254] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Model': Unable to get bean for id 'Territory2Model'
+ WARN [2015-07-08 20:41:41,257] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Rule': Unable to get bean for id 'Territory2Rule'
+ WARN [2015-07-08 20:41:41,261] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2': Unable to get bean for id 'Territory2'
+ WARN [2015-07-08 20:41:41,264] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-07-08 20:41:41,268] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-07-08 20:41:41,271] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-08 20:41:42,069] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-08 20:41:42,076] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'FieldSet': Unable to get bean for id 'FieldSet'
+ WARN [2015-07-08 20:41:42,092] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ListView': Unable to get bean for id 'ListView'
+ WARN [2015-07-08 20:41:42,100] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRule': Unable to get bean for id 'MatchingRule'
+ WARN [2015-07-08 20:41:42,106] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-07-08 20:41:42,110] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-07-08 20:41:42,118] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'RecordType': Unable to get bean for id 'RecordType'
+ WARN [2015-07-08 20:41:42,704] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+ WARN [2015-07-08 20:41:42,711] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-08 20:41:42,717] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-07-08 20:41:42,738] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-07-08 20:41:42,743] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-07-08 20:41:42,747] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-07-08 20:41:42,753] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Type': Unable to get bean for id 'Territory2Type'
+ WARN [2015-07-08 20:41:42,757] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Model': Unable to get bean for id 'Territory2Model'
+ WARN [2015-07-08 20:41:42,761] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Rule': Unable to get bean for id 'Territory2Rule'
+ WARN [2015-07-08 20:41:42,765] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2': Unable to get bean for id 'Territory2'
+ WARN [2015-07-08 20:41:42,769] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-07-08 20:41:42,772] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-07-08 20:41:42,776] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+ WARN [2015-07-08 20:41:42,959] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingCriteriaRule': Unable to get bean for id 'SharingCriteriaRule'
+ WARN [2015-07-08 20:41:42,965] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingOwnerRule': Unable to get bean for id 'SharingOwnerRule'
+ WARN [2015-07-08 20:41:42,972] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingReason': Unable to get bean for id 'SharingReason'
+ WARN [2015-07-08 20:41:42,978] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-07-08 20:41:42,991] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2': Unable to get bean for id 'Territory2'
+ WARN [2015-07-08 20:41:42,997] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Model': Unable to get bean for id 'Territory2Model'
+ WARN [2015-07-08 20:41:43,004] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Rule': Unable to get bean for id 'Territory2Rule'
+ WARN [2015-07-08 20:41:43,010] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Type': Unable to get bean for id 'Territory2Type'
+ WARN [2015-07-08 20:41:43,016] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ValidationRule': Unable to get bean for id 'ValidationRule'
+ WARN [2015-07-08 20:41:43,022] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'WebLink': Unable to get bean for id 'WebLink'
+ WARN [2015-07-08 20:41:43,032] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'WorkflowAlert': Unable to get bean for id 'WorkflowAlert'
+ WARN [2015-07-08 20:41:43,038] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'WorkflowFieldUpdate': Unable to get bean for id 'WorkflowFieldUpdate'
+ WARN [2015-07-08 20:41:43,045] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'WorkflowKnowledgePublish': Unable to get bean for id 'WorkflowKnowledgePublish'
+ WARN [2015-07-08 20:41:43,051] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'WorkflowOutboundMessage': Unable to get bean for id 'WorkflowOutboundMessage'
+ WARN [2015-07-08 20:41:43,057] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'WorkflowRule': Unable to get bean for id 'WorkflowRule'
+ WARN [2015-07-08 20:41:43,064] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'WorkflowSend': Unable to get bean for id 'WorkflowSend'
+ WARN [2015-07-08 20:41:43,070] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'WorkflowTask': Unable to get bean for id 'WorkflowTask'
+ WARN [2015-07-08 20:41:43,361] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+ WARN [2015-07-08 20:41:43,369] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+ WARN [2015-07-08 20:41:43,374] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+ WARN [2015-07-08 20:41:43,378] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+ WARN [2015-07-08 20:41:43,410] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+ WARN [2015-07-08 20:41:43,443] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRule': Unable to get bean for id 'MatchingRule'
+ WARN [2015-07-08 20:41:43,447] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+ WARN [2015-07-08 20:41:43,451] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+ WARN [2015-07-08 20:41:43,459] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingCriteriaRule': Unable to get bean for id 'SharingCriteriaRule'
+ WARN [2015-07-08 20:41:43,463] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingOwnerRule': Unable to get bean for id 'SharingOwnerRule'
+ WARN [2015-07-08 20:41:43,466] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+ WARN [2015-07-08 20:41:43,477] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2': Unable to get bean for id 'Territory2'
+ WARN [2015-07-08 20:41:43,480] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Model': Unable to get bean for id 'Territory2Model'
+ WARN [2015-07-08 20:41:43,483] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Rule': Unable to get bean for id 'Territory2Rule'
+ WARN [2015-07-08 20:41:43,487] (ComponentFactory.java:getComponentBean:1154) - Unable to get component for id 'Territory2Type': Unable to get bean for id 'Territory2Type'
+ERROR [2015-07-08 20:44:01,709] (SyncServiceListenerBroadcaster.java:handleException:59) - Error executing a contributed ISyncServiceListener
+java.lang.NullPointerException
+	at com.salesforce.ide.core.model.ComponentList.getComponentFactory(ComponentList.java:62)
+	at com.salesforce.ide.core.model.ComponentList.getComponentListForComponentType(ComponentList.java:266)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.collectDebuggerElements(SyncActionListener.java:154)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.invalidateApexModelManager(SyncActionListener.java:122)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.projectSync(SyncActionListener.java:114)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster$1.run(SyncServiceListenerBroadcaster.java:54)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.executeExtension(SyncServiceListenerBroadcaster.java:62)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.broadcast(SyncServiceListenerBroadcaster.java:40)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1210)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1123)
+	at com.salesforce.ide.core.services.ForceProjectRefreshJob$ForceProjectRefreshProject.doSaveResources(ForceProjectRefreshJob.java:62)
+	at com.salesforce.ide.core.services.ForceProjectRefreshJob.runInWorkspace(ForceProjectRefreshJob.java:42)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+ WARN [2015-07-08 20:50:32,733] (ConnectionFactory.java:clearCache:220) - Clearing the following cached connections
+ WARN [2015-07-08 20:50:32,740] (DescribeObjectRegistry.java:clearCache:664) - Clearing cached describes
+ WARN [2015-07-08 20:50:32,746] (MetadataFactory.java:clearCache:129) - Clearing the following cached metadata stubs
+ WARN [2015-07-09 16:12:00,283] (ConnectionFactory.java:clearCache:217) - No cached connections
+ WARN [2015-07-09 16:12:00,532] (DescribeObjectRegistry.java:clearCache:661) - No cached describes
+ WARN [2015-07-09 16:12:00,538] (MetadataFactory.java:clearCache:126) - No cached metadata stubs
+ERROR [2015-07-09 18:51:30,107] (SyncServiceListenerBroadcaster.java:handleException:59) - Error executing a contributed ISyncServiceListener
+java.lang.NullPointerException
+	at com.salesforce.ide.core.model.ComponentList.getComponentFactory(ComponentList.java:62)
+	at com.salesforce.ide.core.model.ComponentList.getComponentListForComponentType(ComponentList.java:266)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.collectDebuggerElements(SyncActionListener.java:154)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.invalidateApexModelManager(SyncActionListener.java:122)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.projectSync(SyncActionListener.java:114)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster$1.run(SyncServiceListenerBroadcaster.java:54)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.executeExtension(SyncServiceListenerBroadcaster.java:62)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.broadcast(SyncServiceListenerBroadcaster.java:40)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1210)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1127)
+	at com.salesforce.ide.core.services.ProjectService$1.run(ProjectService.java:2103)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at com.salesforce.ide.core.services.ProjectService.handleRetrieveResult(ProjectService.java:2099)
+	at com.salesforce.ide.ui.actions.RefreshResourceActionController.refreshSourceFolder(RefreshResourceActionController.java:238)
+	at com.salesforce.ide.ui.actions.RefreshResourceActionController.refreshResources(RefreshResourceActionController.java:146)
+	at com.salesforce.ide.ui.actions.RefreshResourceAction$1.execute(RefreshResourceAction.java:77)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+ERROR [2015-07-09 19:03:07,110] (SyncServiceListenerBroadcaster.java:handleException:59) - Error executing a contributed ISyncServiceListener
+java.lang.NullPointerException
+	at com.salesforce.ide.core.model.ComponentList.getComponentFactory(ComponentList.java:62)
+	at com.salesforce.ide.core.model.ComponentList.getComponentListForComponentType(ComponentList.java:266)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.collectDebuggerElements(SyncActionListener.java:154)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.invalidateApexModelManager(SyncActionListener.java:122)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.projectSync(SyncActionListener.java:114)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster$1.run(SyncServiceListenerBroadcaster.java:54)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.executeExtension(SyncServiceListenerBroadcaster.java:62)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.broadcast(SyncServiceListenerBroadcaster.java:40)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1210)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1127)
+	at com.salesforce.ide.core.services.ProjectService$1.run(ProjectService.java:2103)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at com.salesforce.ide.core.services.ProjectService.handleRetrieveResult(ProjectService.java:2099)
+	at com.salesforce.ide.ui.actions.RefreshResourceActionController.refreshSourceFolder(RefreshResourceActionController.java:238)
+	at com.salesforce.ide.ui.actions.RefreshResourceActionController.refreshResources(RefreshResourceActionController.java:146)
+	at com.salesforce.ide.ui.actions.RefreshResourceAction$1.execute(RefreshResourceAction.java:77)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+ WARN [2015-07-09 19:05:09,808] (ComponentFactory.java:getCompositeComponentFromComponent:1102) - Unable to load existing 'pages/VFpage1.page-meta.xml' from project - associated component's file resource is null.  Assuming new.
+ WARN [2015-07-09 19:05:09,994] (ComponentController.java:deploy:402) - Remote save aborted - project is not online enabled
+ WARN [2015-07-09 19:05:10,258] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2015-07-09 19:06:14,111] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ERROR [2015-07-09 19:06:31,212] (ProjectPackageList.java:generateComponents:482) - Filepath-zip mapping is null or empty for package 'unpackaged' [null] - skipping component generation
+ERROR [2015-07-09 19:11:56,546] (SyncServiceListenerBroadcaster.java:handleException:59) - Error executing a contributed ISyncServiceListener
+java.lang.NullPointerException
+	at com.salesforce.ide.core.model.ComponentList.getComponentFactory(ComponentList.java:62)
+	at com.salesforce.ide.core.model.ComponentList.getComponentListForComponentType(ComponentList.java:266)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.collectDebuggerElements(SyncActionListener.java:154)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.invalidateApexModelManager(SyncActionListener.java:122)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.projectSync(SyncActionListener.java:114)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster$1.run(SyncServiceListenerBroadcaster.java:54)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.executeExtension(SyncServiceListenerBroadcaster.java:62)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.broadcast(SyncServiceListenerBroadcaster.java:40)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1210)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1127)
+	at com.salesforce.ide.core.services.ProjectService$1.run(ProjectService.java:2103)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at com.salesforce.ide.core.services.ProjectService.handleRetrieveResult(ProjectService.java:2099)
+	at com.salesforce.ide.ui.actions.RefreshResourceActionController.refreshSourceFolder(RefreshResourceActionController.java:238)
+	at com.salesforce.ide.ui.actions.RefreshResourceActionController.refreshResources(RefreshResourceActionController.java:146)
+	at com.salesforce.ide.ui.actions.RefreshResourceAction$1.execute(RefreshResourceAction.java:77)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+ WARN [2015-07-09 19:13:01,416] (ComponentController.java:checkInFolder:181) - Component resource 'ApexClass.cls' already exists in project
+ WARN [2015-07-09 19:13:07,885] (ComponentController.java:checkInFolder:181) - Component resource 'ApexClass.cls' already exists in project
+ WARN [2015-07-09 19:13:18,845] (ComponentFactory.java:getCompositeComponentFromComponent:1102) - Unable to load existing 'classes/TestApexClass.cls-meta.xml' from project - associated component's file resource is null.  Assuming new.
+ WARN [2015-07-09 19:13:19,367] (ComponentController.java:deploy:402) - Remote save aborted - project is not online enabled
+ WARN [2015-07-09 19:13:19,519] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2015-07-09 19:14:01,697] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2015-07-09 19:14:24,133] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2015-07-09 19:15:07,304] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2015-07-09 19:17:01,691] (BaseAction.java:run:202) - Pre-run failed.  Action not executed.
+ERROR [2015-07-09 19:17:49,740] (SyncServiceListenerBroadcaster.java:handleException:59) - Error executing a contributed ISyncServiceListener
+java.lang.NullPointerException
+	at com.salesforce.ide.core.model.ComponentList.getComponentFactory(ComponentList.java:62)
+	at com.salesforce.ide.core.model.ComponentList.getComponentListForComponentType(ComponentList.java:266)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.collectDebuggerElements(SyncActionListener.java:154)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.invalidateApexModelManager(SyncActionListener.java:122)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.projectSync(SyncActionListener.java:114)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster$1.run(SyncServiceListenerBroadcaster.java:54)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.executeExtension(SyncServiceListenerBroadcaster.java:62)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.broadcast(SyncServiceListenerBroadcaster.java:40)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1210)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1127)
+	at com.salesforce.ide.core.services.ProjectService$1.run(ProjectService.java:2103)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at com.salesforce.ide.core.services.ProjectService.handleRetrieveResult(ProjectService.java:2099)
+	at com.salesforce.ide.ui.actions.RefreshResourceActionController.refreshSourceFolder(RefreshResourceActionController.java:238)
+	at com.salesforce.ide.ui.actions.RefreshResourceActionController.refreshResources(RefreshResourceActionController.java:146)
+	at com.salesforce.ide.ui.actions.RefreshResourceAction$1.execute(RefreshResourceAction.java:77)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
