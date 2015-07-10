@@ -1,5 +1,8 @@
 
-/*this is master*/
+/* this is master file */
+
+
+
 public Account createAccount(String name) //method to create account
 { 
 Account acc = new Account();
