@@ -1,11 +1,4 @@
 
 /* this is master file */
+sitll to merge the branch
 
-
-
-public Account createAccount(String name) //method to create account
-{ 
-Account acc = new Account();
-acc.Name = name; 
-return acc; 
-}
