@@ -1,5 +1,3 @@
+hello welcome to readme file
 
-/* this is master file */
-
-sitll to merge the branch
-
+this is branch file online 
