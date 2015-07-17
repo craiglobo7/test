@@ -1,6 +1,3 @@
 
-/* This is a branch file */
-
-//bla bla
-
-editing the file  on branch1
+This is a branch file
+online git hub
